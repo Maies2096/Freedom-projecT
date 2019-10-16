@@ -1,4 +1,4 @@
-# chernovo-nuclear
+# chernobyl-nuclear
 part1.a.a sicence
 
 # SEP10 Freedom Project
