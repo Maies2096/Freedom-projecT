@@ -80,7 +80,7 @@ meaning it is a quality protein source. There is a current perception that veget
 
 <p>Other ways we could get a healthy dose of daily protein would be to eat more peas, nuts, beans, quinoa, greens and buckwheat. Dairy milk and chicken eggs are also an excellent source, provided that milk and egg farms would still be in operation.</p>
 
-<h4>Vegetarian Citations</h4>
+<h4>Citations</h4>
 <ul>
  <li>https://www.globalcitizen.org/en/content/9-reasons-why-veganism-can-save-the-world/</li>
  <li>http://www.independent.co.uk/voices/five-things-would-happen-if-everyone-stopped-eating-meat-a6844811.html</li>

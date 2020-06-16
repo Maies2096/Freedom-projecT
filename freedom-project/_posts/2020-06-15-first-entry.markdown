@@ -36,7 +36,7 @@ and smash into tiny pieces. The same thing would happen to just about every larg
 <p>Within a few months, forests would begin massive die-offs. And all this dry, dead vegetation would eventually ignite. In the matter of years, most of the world's forests would be burned down. As these huge bonfires sparked all across the planet, the atmosphere would become less and less oxygenated.If there were still humans at this time, the unbreathable air and scorching temperature would wipe us out for good. All in all, the Earth would end up just like Venus. Cooked.</p>
 
 
-<h4>Ocean Citations</h4>
+<h4>Citations</h4>
 <ul>
  <li>XKCD / Randall Munroe: Drain the Oceans, Vanishing Water</li>
  <li>Gallagher Flinn: What if the oceans disappeared?</li>
