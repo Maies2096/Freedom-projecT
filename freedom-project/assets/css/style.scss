@@ -1,0 +1,35 @@
+ ---
+ ---
+
+@import "{{ site.theme }}";
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <title>SHABR Project</title>
+
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@media screen and (min-width: 0px){
+body {
+  background-color: #2B1700;
+  color:#014421;
+  font-family: 'Poiret One', cursive;
+  font-weight:bold;
+}
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+}
+}
+
+    </style>
+  </head>
