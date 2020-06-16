@@ -4,7 +4,7 @@ title:  "What if: the Earth was actually flat?"
 date:   2020-06-15 19:05:56 +0000
 categories: jekyll update
 ---
-<h1>What if the Earth was actually flat?</h1>
+<h2>What if the Earth was actually flat?</h2>
 
 <h2>Gravity?</h2>
 <h4>How would gravity work? Would we still have time zones? Change of seasons? Would the conditions for life here on Earth exist at all?</h4>

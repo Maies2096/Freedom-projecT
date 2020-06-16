@@ -4,7 +4,7 @@ title:  "What-if: the whole world turned vegetarian?"
 date:   2020-06-15 19:05:56 +0000
 categories: jekyll update
 ---
-<h1>What If the whole world turned Vegetarian?:</h1>
+<h1>What if the whole world turned Vegetarian?:</h1>
 
 <p>Americans love their meat, with the average person consuming roughly 198 lbs (90 kg) of pork, beef and chicken every year.
 The global average is considerably less, at around 75 lbs (34 kg) per year
