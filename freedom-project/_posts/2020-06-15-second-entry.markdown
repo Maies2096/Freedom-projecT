@@ -80,16 +80,17 @@ meaning it is a quality protein source. There is a current perception that veget
 
 <p>Other ways we could get a healthy dose of daily protein would be to eat more peas, nuts, beans, quinoa, greens and buckwheat. Dairy milk and chicken eggs are also an excellent source, provided that milk and egg farms would still be in operation.</p>
 
-<h6>Vegetarian Citations</h6>
-<p>https://www.globalcitizen.org/en/content/9-reasons-why-veganism-can-save-the-world/
-http://www.independent.co.uk/voices/five-things-would-happen-if-everyone-stopped-eating-meat-a6844811.html
-http://www.bbc.com/future/story/20160926-what-would-happen-if-the-world-suddenly-went-vegetarian
-http://www.bbc.com/future/story/20170612-the-consequences-if-the-world-decided-to-go-meat-free
-http://listverse.com/2015/11/25/10-negative-effects-the-meat-industry-has-on-the-world/
-https://ensia.com/articles/these-maps-show-changes-in-global-meat-consumption-by-2024-heres-why-that-matters/
-https://qz.com/523255/the-us-meat-industrys-wildly-successful-40-year-crusade-to-keep-its-hold-on-the-american-diet/
-https://www.weforum.org/agenda/2016/10/what-if-the-whole-world-went-vegetarian/
-https://blog.education.nationalgeographic.com/2016/10/31/what-would-happen-if-everyone-stopped-eating-meat/
-http://www.marketwatch.com/story/this-chart-proves-americans-love-their-meat-2016-08-15
-https://www.weforum.org/agenda/2016/10/what-if-the-whole-world-went-vegetarian/
-http://www.konbini.com/en/lifestyle/what-would-actually-happen-if-everyone-stopped-eating-meat/ </p>
+<h4>Vegetarian Citations</h4>
+<ul>
+ <li>https://www.globalcitizen.org/en/content/9-reasons-why-veganism-can-save-the-world/</li>
+ <li>http://www.independent.co.uk/voices/five-things-would-happen-if-everyone-stopped-eating-meat-a6844811.html</li>
+ <li>http://www.bbc.com/future/story/20160926-what-would-happen-if-the-world-suddenly-went-vegetarian</li>
+ <li>http://www.bbc.com/future/story/20170612-the-consequences-if-the-world-decided-to-go-meat-free</li>
+ <li>http://listverse.com/2015/11/25/10-negative-effects-the-meat-industry-has-on-the-world/</li>
+ <li>https://ensia.com/articles/these-maps-show-changes-in-global-meat-consumption-by-2024-heres-why-that-matters/</li>
+ <li>https://qz.com/523255/the-us-meat-industrys-wildly-successful-40-year-crusade-to-keep-its-hold-on-the-american-diet/</li>
+ <li>https://www.weforum.org/agenda/2016/10/what-if-the-whole-world-went-vegetarian/</li>
+ <li>https://blog.education.nationalgeographic.com/2016/10/31/what-would-happen-if-everyone-stopped-eating-meat/</li>
+ <li>https://www.weforum.org/agenda/2016/10/what-if-the-whole-world-went-vegetarian/</li>
+ <li>http://www.konbini.com/en/lifestyle/what-would-actually-happen-if-everyone-stopped-eating-meat/</li>
+</ul>
