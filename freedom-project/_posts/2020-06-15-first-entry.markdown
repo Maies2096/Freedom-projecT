@@ -38,9 +38,9 @@ and smash into tiny pieces. The same thing would happen to just about every larg
 
 <h4>Citations</h4>
 <ul>
- <li>[Drain the Oceans?](https://what-if.xkcd.com/53/)</li>
- <li>[Vanishing Water](https://what-if.xkcd.com/103/)</li>
- <li>[What if the oceans disappeared?](https://science.howstuffworks.com/science-vs-myth/what-if/what-if-oceans-disappeared.htm)</li>
- <li>[How much water is in the ocean?](https://oceanservice.noaa.gov/facts/oceanwater.html)</li>
+ <li><a href ="https://what-if.xkcd.com/53/" > Drain the Oceans?</a> </li>
+ <li><a href = "https://what-if.xkcd.com/103/" > Vanishing Water </a> </li>
+ <li> <a href = "https://science.howstuffworks.com/science-vs-myth/what-if/what-if-oceans-disappeared.htm" > What if the oceans disappeared?</a> </li>
+ <li><a href = "https://oceanservice.noaa.gov/facts/oceanwater.html" > How much water is in the ocean? </a> </li>
 </ul>
 

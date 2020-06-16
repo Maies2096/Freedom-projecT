@@ -82,15 +82,15 @@ meaning it is a quality protein source. There is a current perception that veget
 
 <h4>Citations</h4>
 <ul>
- <li>[9 Reasons Why Veganism Can Save the World](https://www.globalcitizen.org/en/content/9-reasons-why-veganism-can-save-the-world/)</li>
- <li>[5 Things Would Happen if Everyone Stopped Eating Meat](http://www.independent.co.uk/voices/five-things-would-happen-if-everyone-stopped-eating-meat-a6844811.html)</li>
- <li>[What would happed if the World Suddenly Went Vegetarian?](http://www.bbc.com/future/story/20160926-what-would-happen-if-the-world-suddenly-went-vegetarian)</li>
- <li>[The Consequences if the World Decided to Go Meat-Free](http://www.bbc.com/future/story/20170612-the-consequences-if-the-world-decided-to-go-meat-free)</li>
- <li>[10 Negative Effects the Meat Industry Has on the World](http://listverse.com/2015/11/25/10-negative-effects-the-meat-industry-has-on-the-world/)</li>
- <li>[These Maps Show Changes in Global Meat Consumption by 2024. Here's Why That Matters-](https://ensia.com/articles/these-maps-show-changes-in-global-meat-consumption-by-2024-heres-why-that-matters/)</li>
- <li>[The Meat Industry's Wildly Successful 40-Year-Crusade to Keep It's Hold on the American Diet](https://qz.com/523255/the-us-meat-industrys-wildly-successful-40-year-crusade-to-keep-its-hold-on-the-american-diet/)</li>
- <li>[Things that Would Occur if The Whole World Went Vegetarian?](https://www.weforum.org/agenda/2016/10/what-if-the-whole-world-went-vegetarian/)</li>
- <li>[What Would Happen If Everyone Stopped Eating Meat?](https://blog.education.nationalgeographic.com/2016/10/31/what-would-happen-if-everyone-stopped-eating-meat/)</li>
- <li>[What if the Whole World went Vegetarian?](https://www.weforum.org/agenda/2016/10/what-if-the-whole-world-went-vegetarian/)</li>
- <li>[What Would Actually Happen if Everybody Stopped Eating Meat](http://www.konbini.com/en/lifestyle/what-would-actually-happen-if-everyone-stopped-eating-meat/)</li>
+ <li><a href = "https://www.globalcitizen.org/en/content/9-reasons-why-veganism-can-save-the-world/" > 9 Reasons Why Veganism Can Save the World </a></li>
+ <li><a href = "http://www.independent.co.uk/voices/five-things-would-happen-if-everyone-stopped-eating-meat-a6844811.html" > 5 Things Would Happen if Everyone Stopped Eating Meat </a></li>
+ <li><a href= "http://www.bbc.com/future/story/20160926-what-would-happen-if-the-world-suddenly-went-vegetarian" >What would happed if the World Suddenly Went Vegetarian?</a></li>
+ <li><a href="http://www.bbc.com/future/story/20170612-the-consequences-if-the-world-decided-to-go-meat-free" >The Consequences if the World Decided to Go Meat-Free </a></li>
+ <li><a href= "http://listverse.com/2015/11/25/10-negative-effects-the-meat-industry-has-on-the-world/" > 10 Negative Effects the Meat Industry Has on the World </a></li>
+ <li><a href= "https://ensia.com/articles/these-maps-show-changes-in-global-meat-consumption-by-2024-heres-why-that-matters/ " > These Maps Show Changes in Global Meat Consumption by 2024. Here's Why That Matters- </a> </li>
+ <li><a href = "https://qz.com/523255/the-us-meat-industrys-wildly-successful-40-year-crusade-to-keep-its-hold-on-the-american-diet/"> The Meat Industry's Wildly Successful 40-Year-Crusade to Keep It's Hold on the American Diet </a></li>
+ <li><a href="https://www.weforum.org/agenda/2016/10/what-if-the-whole-world-went-vegetarian/" > Things that Would Occur if The Whole World Went Vegetarian? </a></li>
+ <li><a href= "https://blog.education.nationalgeographic.com/2016/10/31/what-would-happen-if-everyone-stopped-eating-meat/" >  What Would Happen If Everyone Stopped Eating Meat? </a></li>
+ <li><a href="https://www.weforum.org/agenda/2016/10/what-if-the-whole-world-went-vegetarian/" > What if the Whole World went Vegetarian? </a> </li>
+ <li><a href= "http://www.konbini.com/en/lifestyle/what-would-actually-happen-if-everyone-stopped-eating-meat/" > What Would Actually Happen if Everybody Stopped Eating Meat</a></li>
 </ul>
