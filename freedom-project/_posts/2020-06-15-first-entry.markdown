@@ -38,7 +38,9 @@ and smash into tiny pieces. The same thing would happen to just about every larg
 
 
 <h6>Ocean Citations</h6>
-XKCD / Randall Munroe: Drain the Oceans, Vanishing Water
-Gallagher Flinn: What if the oceans disappeared?
-NOAA National Ocean Service: How much water is in the ocean?
+<ul>
+ <li>XKCD / Randall Munroe: Drain the Oceans, Vanishing Water</li>
+ <li>Gallagher Flinn: What if the oceans disappeared?</li>
+ <li>NOAA National Ocean Service: How much water is in the ocean?</li>
+</ul>
 
