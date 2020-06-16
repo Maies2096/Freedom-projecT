@@ -21,19 +21,19 @@ The oceans would escape into space, and so would the air, and all our oxygen. Bu
 
 <h4>Citations</h4>
 <ul>
- <li>What would happen if the Earth were actually flat?</li>
- <li>What Is Earth?</li>
- <li>Why are planets round?</li>
- <li>June, ca. 240 B.C. Eratosthenes Measures the Earth</li>
- <li>Top 10 Ways to Know the Earth is Not Flat</li>
- <li>8 REASONS WE KNOW THE EARTH ISN’T FLAT</li>
- <li>The Flat Earth Society</li>
- <li>No, Earth Isn’t Flat: Here’s How Ancients Proved It</li>
- <li>What Happens If GPS Fails?</li>
- <li>Science and Civilization in China: Volume 3</li>
- <li>Flat Earth: The History of an Infamous Idea</li>
- <li>Is the Earth a Whirling Globe?</li>
- <li>Aspects of Ancient Muslim Scholars’ Induction Drawn from the Holy Qur’an in Proving Earth is Spherical</li>
- <li>Looking for Life on a Flat Earth</li>
- <li>Are Flat-Earthers Being Serious?</li>
+ <li>[What would happen if the Earth were actually flat?](https://phys.org/news/2018-01-earth-flat.html)</li>
+ <li>[What Is Earth?](https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-earth-58.html)</li>
+ <li>[Why are planets round?](https://spaceplace.nasa.gov/planets-round/en/)</li>
+ <li>[June, ca. 240 B.C. Eratosthenes Measures the Earth](https://www.aps.org/publications/apsnews/200606/history.cfm)</li>
+ <li>[Top 10 Ways to Know the Earth is Not Flat](http://www.smarterthanthat.com/astronomy/top-10-ways-to-know-the-earth-is-not-flat/)</li>
+ <li>[8 REASONS WE KNOW THE EARTH ISN’T FLAT](https://nerdist.com/article/8-reasons-we-know-the-earth-isnt-flat/)</li>
+ <li>[The Flat Earth Society](https://theflatearthsociety.org/home/index.php)</li>
+ <li>[No, Earth Isn’t Flat: Here’s How Ancients Proved It](https://go.discovery.com)</li>
+ <li>[What Happens If GPS Fails?](https://www.theatlantic.com/technology/archive/2016/06/what-happens-if-gps-fails/486824/)</li>
+ <li>[Science and Civilization in China: Volume 3](https://books.google.ca/books/about/Science_and_Civilisation_in_China_Volume.html?id=jfQ9E0u4pLAC)</li>
+ <li>[Flat Earth: The History of an Infamous Idea](https://books.google.ca/books/about/Flat_Earth.html?id=2f8HAQAAMAAJ&redir_esc=y)</li>
+ <li>[Is the Earth a Whirling Globe?](https://www.theflatearthsociety.org/library/newsletters/Flat%20Earth%20Society%20Newsletter%20-%201979%20March.pdf)</li>
+ <li>[Aspects of Ancient Muslim Scholars’ Induction Drawn from the Holy Qur’an in Proving Earth is Spherical](https://www.iiste.org/Journals/index.php/JEP/article/view/13388)</li>
+ <li>[Looking for Life on a Flat Earth](https://www.newyorker.com/science/elements/looking-for-life-on-a-flat-earth)</li>
+ <li>[Are Flat-Earthers Being Serious?](https://www.livescience.com/24310-flat-earth-belief.html)</li>
 </ul>
