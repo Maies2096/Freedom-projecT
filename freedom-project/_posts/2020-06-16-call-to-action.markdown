@@ -6,4 +6,5 @@ categories: jekyll update
 ---
 
 <h2>Call 2 Action<h2>
-<p> Always strive to explore. We are significantly small compared to the universe. Go out and ponder as to why things are the way they are. You might just end up questioning "What-if things went differently?":)</p>
+<h4> Always strive to explore. We are significantly small compared to the universe. Go out and ponder as to why things are the way they are. You might just end up questioning "What-if things went differently?":)</h4>
+
